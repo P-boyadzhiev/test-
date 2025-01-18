@@ -1,4 +1,8 @@
 The river flowed gently.
- It reflected the sunlight.
+ It reflected the sunshine.
  Nearby, an owl hooted.
+<<<<<<< HEAD
  The valley seemed alive.
+=======
+ The mountain seemed alive.
+>>>>>>> main
